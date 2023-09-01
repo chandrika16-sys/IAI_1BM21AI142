@@ -21,3 +21,7 @@ PACMAN:
 
 basic probabilty 2:
 ![Screenshot 2023-09-01 030356](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/5d0f651a-7b75-4838-a4e6-5678e3458dab)
+
+
+
+![Screenshot 2023-09-01 030842](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/938cf2de-dcde-4770-9a6d-c1854dd171c5)
