@@ -11,3 +11,7 @@ n-pUZZLE:
 ![Screenshot 2023-09-01 022500](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/ebd751d3-86ea-420a-b4a6-4d886fa64b1b)
 
 <img width="878" alt="Screenshot 2023-08-31 215548" src="https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/005e7342-4678-4aae-8526-560f08240d96">
+
+PACMAN:
+![Screenshot 2023-09-01 023205](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/8c17da75-13ff-482a-b42d-d50cc4a912bc)
+
