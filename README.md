@@ -2,11 +2,12 @@
 
 BASIC PROBABILITY
 <img width="878" alt="Screenshot 2023-08-31 220724" src="https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/ff8ac5a8-5298-4840-ad0b-432c6efafcf6">
-![Uploading Screenshot 2023-09-01 030613.png…]()
+
 
 
 BOT SAVES PRINCESS:
 <img width="960" alt="Screenshot 2023-08-31 220613" src="https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/56a96196-b293-4634-94cb-546402ec5cd6">
+![Screenshot 2023-09-01 030613](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/c5ec3e78-43c3-4603-8be7-6334d3907fd8)
 
 
 n-PUZZLE:
