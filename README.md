@@ -15,3 +15,6 @@ n-pUZZLE:
 PACMAN:
 ![Screenshot 2023-09-01 023205](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/8c17da75-13ff-482a-b42d-d50cc4a912bc)
 
+
+basic probabilty 2:
+![Screenshot 2023-09-01 030356](https://github.com/chandrika16-sys/IAI_1BM21AI142/assets/128931161/5d0f651a-7b75-4838-a4e6-5678e3458dab)
